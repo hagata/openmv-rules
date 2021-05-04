@@ -3,3 +3,6 @@ The Open Metaverse is a fictional world. The world, character, rules, and functi
 
 ## contributing
 Details on how to contribute are coming soon!
+
+### Formatting
+We use @nuxt/content to generate the content from the Markdown files. For more info on how you can format things withing your `.md` content files, see https://content.nuxtjs.org/writing

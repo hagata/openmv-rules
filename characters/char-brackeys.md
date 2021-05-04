@@ -1,8 +1,9 @@
 ---
 title: Brackeys
 author: genki hagata
-type: character
-tags: gender neutral, creature
+type: non-human
+pronouns: they, them, their
+tags: creature
 ---
 *Sample/test character*
 
